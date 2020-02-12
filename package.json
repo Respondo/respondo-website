@@ -6,6 +6,8 @@
         "type": "git",
         "url": "https://github.com/matteeyah/respondo-website.git"
     },
+    "license": "MIT",
+    "homepage": "https://respondohub.com",
     "dependencies": {
         "bootstrap": "4.3.1",
         "jquery": "3.4.1",
