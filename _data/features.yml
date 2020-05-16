@@ -1,0 +1,36 @@
+- name: Brand Team Management
+  description: Manage your brand team.
+  documentation_link: https://docs.respondohub.com/brands#brand-members
+  plan: free
+- name: Brand Domain Team Auth
+  description: Automatically add team members based on their email domain.
+  documentation_link: https://docs.respondohub.com/brands#brand-domain
+  plan: free
+- name: Brand Account Management
+  description: Manage multiple brand accounts.
+  documentation_link: https://docs.respondohub.com/brands#brand-accounts
+  plan: free
+- name: User Account Management
+  description: Manage multiple user accounts.
+  documentation_link: https://docs.respondohub.com/users#user-accounts
+  plan: free
+- name: Ticket Filtering
+  description: Filter tickets based on content, author or status.
+  documentation_link: https://docs.respondohub.com/tickets#filtering
+  plan: free
+- name: Ticket Internal Notes
+  description: Leave internal notes on tickets visible only to team members.
+  documentation_link: https://docs.respondohub.com/tickets#internal-notes
+  plan: paid
+- name: Ticket Replies
+  description: Reply to tickets directly from Respondo.
+  documentation_link: https://docs.respondohub.com/tickets#replies
+  plan: paid
+- name: Ticket Solving
+  description: Solve and open tickets.
+  documentation_link: https://docs.respondohub.com/tickets#solving--opening
+  plan: paid
+- name: Ticket Webhooks
+  description: Add tickets from custom sources with webhooks.
+  documentation_link: https://docs.respondohub.com/tickets#webhook-integrations
+  plan: free
